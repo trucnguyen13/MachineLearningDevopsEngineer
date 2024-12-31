@@ -1,7 +1,7 @@
 ## Link Project
 Link github: https://github.com/trucnguyen13/MachineLearningDevopsEngineer
 
-Link Wandb: https://wandb.ai/trucnd1/nyc_airbnb?workspace=user-trucnd1
+Link Wandb: https://wandb.ai/dothonggct/nyc_airbnb?workspace=user-dothonggct
 
 # Build an ML Pipeline for Short-Term Rental Prices in NYC
 You are working for a property management company renting rooms and properties for short periods of 

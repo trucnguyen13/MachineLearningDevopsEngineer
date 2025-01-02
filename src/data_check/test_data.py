@@ -69,5 +69,5 @@ def test_row_count(data):
 
 def test_price_range(data, min_price, max_price):
     """ Test price range. """
-    idx = data['price'].between(min_price, max_price)
-    assert np.sum(~idx) == 0
+    idx_price = data['price'].between(min_price, max_price)
+    assert np.sum(~idx_price) == 0
